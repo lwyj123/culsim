@@ -1,0 +1,814 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"temp",
+				"tempProductCount"
+			],
+			[
+				"right",
+				"rightAnswerBefore"
+			],
+			[
+				"tab",
+				"tabHighlight"
+			],
+			[
+				"text",
+				"textareaDom"
+			],
+			[
+				"stra",
+				"strategy"
+			],
+			[
+				"phone",
+				"phonenumber"
+			],
+			[
+				"new",
+				"newpwd2"
+			],
+			[
+				"newp",
+				"newpwd2"
+			],
+			[
+				"pwdsafe",
+				"pwdsafeForm"
+			],
+			[
+				"pwd",
+				"pwdsafe-form"
+			],
+			[
+				"target",
+				"targetOBJ"
+			],
+			[
+				"back",
+				"background"
+			],
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"background",
+				"background-image"
+			],
+			[
+				"gameOver",
+				"gameOverFlag"
+			],
+			[
+				"gameStart",
+				"gameStartFlag"
+			],
+			[
+				"main",
+				"mainTimeLineInterval"
+			],
+			[
+				"bir",
+				"birdFall"
+			],
+			[
+				"best",
+				"best"
+			],
+			[
+				"max",
+				"maxScore"
+			],
+			[
+				"merge",
+				"merge_down"
+			],
+			[
+				"empty",
+				"emptyWeight"
+			],
+			[
+				"smooth",
+				"smoothWeight"
+			],
+			[
+				"emp",
+				"EmptyCounter"
+			],
+			[
+				"curren",
+				"current"
+			],
+			[
+				"hig",
+				"highestCell"
+			],
+			[
+				"h",
+				"highestCell"
+			],
+			[
+				"start",
+				"start_mon"
+			],
+			[
+				"get",
+				"get_food_value"
+			],
+			[
+				"super",
+				"superBestFriend"
+			],
+			[
+				"is",
+				"isinstance"
+			],
+			[
+				"cac",
+				"calculateThingThreat"
+			],
+			[
+				"min",
+				"min_damage"
+			],
+			[
+				"reduce",
+				"reduce_health"
+			],
+			[
+				"get_med",
+				"get_medicine_value"
+			],
+			[
+				"get_food",
+				"get_food_value"
+			],
+			[
+				"food",
+				"food_value"
+			],
+			[
+				"__",
+				"__init__"
+			],
+			[
+				"fill",
+				"fill_row"
+			],
+			[
+				"print",
+				"printPaths"
+			],
+			[
+				"all",
+				"allc"
+			],
+			[
+				"b",
+				"b"
+			],
+			[
+				"last",
+				"lastitem"
+			],
+			[
+				"has",
+				"hasUpper"
+			],
+			[
+				"str",
+				"str_num"
+			],
+			[
+				"list",
+				"listnum"
+			],
+			[
+				"step",
+				"step4"
+			],
+			[
+				"pop",
+				"pop_stack"
+			],
+			[
+				"make",
+				"make_empty_stack"
+			],
+			[
+				"i",
+				"i"
+			],
+			[
+				"tuple",
+				"tuple_a"
+			],
+			[
+				"score",
+				"score_increment"
+			],
+			[
+				"get_re",
+				"get_record_increment"
+			],
+			[
+				"sc",
+				"score_increment"
+			],
+			[
+				"merg",
+				"merge_left"
+			],
+			[
+				"Max",
+				"maxX"
+			],
+			[
+				"game",
+				"game_map"
+			],
+			[
+				"F",
+				"F"
+			],
+			[
+				"s",
+				"stime2"
+			],
+			[
+				"time",
+				"time1"
+			],
+			[
+				"customer",
+				"customer_name"
+			],
+			[
+				"paddin",
+				"padding-top"
+			],
+			[
+				"border",
+				"border-bottom"
+			],
+			[
+				"backg",
+				"background-image"
+			],
+			[
+				"word",
+				"word-break"
+			],
+			[
+				"align",
+				"text-align"
+			],
+			[
+				"inline",
+				"inline-block"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "culsim.sublime-project",
+			"settings":
+			{
+				"buffer_size": 158,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/C++/C++ Single File.sublime-build",
+				"Run"
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 104.0,
+		"last_filter": "Package Control: install",
+		"selected_items":
+		[
+			[
+				"Package Control: install",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"pkin",
+				"Preferences: Key Bindings - Default"
+			],
+			[
+				"package",
+				"Preferences: Browse Packages"
+			]
+		],
+		"width": 432.0
+	},
+	"console":
+	{
+		"height": 188.0,
+		"history":
+		[
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/E/culsim/"
+	],
+	"file_history":
+	[
+		"/E/TowerClimber/src/js/monsters.js",
+		"/E/TowerClimber/src/js/log/combatlog.js",
+		"/C/Users/Administrator/Desktop/alitest1.html",
+		"/E/TowerClimber/src/js/player.js",
+		"/E/TowerClimber/CHANGELOG.md",
+		"/E/lw-blog/.editorconfig",
+		"/E/TowerClimber/src/js/monster/test.html",
+		"/E/TowerClimber/TowerClimber.sublime-project",
+		"/E/TowerClimber/src/js/monster/monster.js",
+		"/E/TowerClimber/index.html",
+		"/E/HJevent/src/HJevent.js",
+		"/E/lw-blog/.gitignore",
+		"/E/lw-blog/.DS_Store",
+		"/E/lw-blog/src/app.js",
+		"/E/lw-blog/README.md",
+		"/E/lw-blog/src/App.vue",
+		"/E/lw-blog/test/unit/index.js",
+		"/E/lw-blog/package.json",
+		"/E/HJevent/demo.html",
+		"/E/TowerClimber/src/js/upgrades.js",
+		"/E/HJtimeout/webpack.config.js",
+		"/E/wuanlife-project/wuanlife/app.js",
+		"/E/TowerClimber/src/js/system.js",
+		"/E/TowerClimber/src/js/statemanager.js",
+		"/E/TowerClimber/src/js/tower.js",
+		"/E/HJcivilizationwar/script/state_manager.js",
+		"/E/TowerClimber/idel.bak",
+		"/E/HJcivilizationwar/index.html",
+		"/E/TowerClimber/README.md",
+		"/E/TowerClimber/src/js/inventory.js",
+		"/F/era/eraJK私人改造+修正 气氛上的最终版/save00.sav",
+		"/F/era/eraJK私人改造+修正 气氛上的最终版/save02.sav",
+		"/E/TowerClimber/src/js/spells.js",
+		"/F/era/eraJK私人改造+修正 气氛上的最终版/save99.sav",
+		"/E/TowerClimber/src/js/buffs.js",
+		"/E/TowerClimber/package.json",
+		"/C/Users/Administrator/Desktop/kdtest/kdtree/README",
+		"/E/wuanlife-project/wuanlife/views/searchContentMobile.ejs",
+		"/E/wuanlife-project/wuanlife/views/indexMobile.ejs",
+		"/E/HJworld-api/application/models/User_model.php",
+		"/E/HJworld-api/application/controllers/User.php",
+		"/E/HJedit/package.json",
+		"/E/HJmore/.gitignore",
+		"/E/HJmore/webpack.config.js",
+		"/E/HJedit/_develop/webpack.config.js",
+		"/E/wuanlife-project/wuanlife/routes/index.js",
+		"/E/HJworld-api/application/config/routes.php",
+		"/E/wuanlife-project/wuanlife/public/stylesheets/src/less/globalM.less",
+		"/E/HJworld-api/application/controllers/Welcome.php",
+		"/E/HJworld-api/application/controllers/index.html",
+		"/E/HJworld-api/application/models/index.html",
+		"/E/HJworld-api/application/config/database.php",
+		"/E/HJworld-api/application/config/config.php",
+		"/E/HJworld-api/composer.json",
+		"/E/resume/print.html",
+		"/E/travian/travianz/anmelden.php",
+		"/E/wuanlife-project/wuanlife/routes/loginNew.js",
+		"/E/travian/travianz/index.php",
+		"/E/resume/index.html",
+		"/E/travian/travianz/login.php",
+		"/E/travian/travianz/install/include/database.php",
+		"/E/wuanlife-project/wuanlife/config/config.js",
+		"/E/wuanlife-project/wuanlife/routes/inviteCode.js",
+		"/E/wuanlife-project/wuanlife/routes/logout.js",
+		"/E/wuanlife-project/wuanlife/public/stylesheets/src/less/yangPC.less",
+		"/E/wuanlife-project/wuanlife/public/stylesheets/src/less/xinPC.less",
+		"/E/wuanlife-project/wuanlife/public/stylesheets/src/less/yang.Mobile.less",
+		"/E/wuanlife-project/wuanlife/.gitignore",
+		"/E/wuanlife-project/wuanlife/views/base/baseJSMobile.ejs",
+		"/E/wuanlife-project/wuanlife/routes/group.js",
+		"/E/wuanlife-project/wuanlife/routes/isLogin.js",
+		"/E/wuanlife-project/wuanlife/routes/login.js",
+		"/E/HJedit/.gitignore",
+		"/E/wuanlife-project/wuanlife/views/loginMobile.ejs",
+		"/E/wuanlife-project/wuanlife/wuanlife.sublime-project",
+		"/E/HJedit/themes/snow.js",
+		"/C/Users/Administrator/Desktop/test.c",
+		"/E/HJedit/HJedit.sublime-project",
+		"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/User/SublimeLinter.sublime-settings",
+		"/E/HJedit/blots/block.js",
+		"/E/HJedit/formats/image.js",
+		"/E/HJedit/modules/toolbar.js",
+		"/E/HJedit/core/editor.js",
+		"/E/HJedit/core/quill.js",
+		"/E/HJedit/core/selection.js",
+		"/E/HJedit/test.html",
+		"/E/HJedit/core/theme.js",
+		"/E/HJedit/core/logger.js",
+		"/E/HJedit/core/emitter.js",
+		"/E/HJedit/formats/link.js",
+		"/E/HJedit/blots/inline.js",
+		"/E/adarkroom-master/index.html",
+		"/E/adarkroom-master/script/world.js",
+		"/E/adarkroom-master/script/Button.js",
+		"/E/adarkroom-master/script/outside.js",
+		"/E/adarkroom-master/script/room.js",
+		"/E/HJcivilizationwar/adarkroom-master/lang/vi/strings.po",
+		"/E/HJcivilizationwar/adarkroom-master/lang/zh_cn/strings.js",
+		"/E/HJedit/core/module.js",
+		"/E/HJcivilizationwar/lang/adarkroom.pot",
+		"/E/HJcivilizationwar/lang/babel.cfg",
+		"/E/HJcivilizationwar/lang/langs.js",
+		"/E/HJcivilizationwar/lang/main.css",
+		"/E/HJcivilizationwar/.gitignore",
+		"/E/HJcivilizationwar/adarkroom-master/lang/vi/strings.js",
+		"/E/HJcivilizationwar/adarkroom-master/lang/vi/main.css",
+		"/E/adarkroom-master/contributing.md",
+		"/E/HJedit/blots/embed.js",
+		"/E/HJedit/.eslintrc.js",
+		"/C/Users/Administrator/Desktop/jd01.js",
+		"/C/Users/Administrator/Desktop/test3.js",
+		"/C/Users/Administrator/Desktop/jd02.js",
+		"/E/HJedit/README.md",
+		"/E/HJedit/core.js",
+		"/E/HJedit/test/unit.js",
+		"/E/HJedit/quill-develop/core/logger.js",
+		"/E/HJedit/quill-develop/quill.js",
+		"/E/HJedit/quill-develop/test/unit/modules/clipboard.js",
+		"/E/HJedit/quill-develop/modules/clipboard.js",
+		"/E/HJedit/quill-develop/core/quill.js",
+		"/E/HJedit/quill-develop/test/unit.js",
+		"/E/HJedit/quill-develop/HJedit.sublime-project",
+		"/E/HJedit/quill-develop/test/unit/modules/keyboard.js",
+		"/E/HJedit/quill-develop/test/unit/ui/picker.js",
+		"/E/HJedit/quill-develop/themes/snow.js",
+		"/E/HJedit/quill-develop/assets/snow/toolbar.styl",
+		"/E/HJedit/quill-develop/assets/bubble/toolbar.styl",
+		"/E/HJedit/quill-develop/assets/base.styl"
+	],
+	"find":
+	{
+		"height": 26.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+			"<project>",
+			"E:\\TowerClimber",
+			"E:\\TowerClimber,-node_modules/",
+			"E:\\TowerClimber",
+			"E:\\TowerClimber,-node_modules/",
+			"E:\\TowerClimber",
+			"E:\\wuanlife-project\\wuanlife\\",
+			"E:\\HJedit\\\\modules",
+			"E:\\HJedit\\\\formats",
+			"E:\\HJedit\\\\blots",
+			"E:\\HJedit\\\\core",
+			"E:\\HJedit\\quill-develop\\\\modules",
+			"E:\\HJedit\\quill-develop\\\\formats",
+			"E:\\HJedit\\quill-develop\\\\dist",
+			"E:\\HJedit\\quill-develop\\\\core",
+			"E:\\HJedit\\quill-develop\\\\blots",
+			"E:\\HJedit\\quill-develop\\\\assets",
+			"E:\\HJedit\\quill-develop\\\\modules",
+			"E:\\HJedit\\quill-develop\\,-/*node_modules/* ",
+			"E:\\HJedit\\quill-develop\\\\assets",
+			"E:\\HJedit\\quill-develop\\,-/node_modules/*.*",
+			"E:\\HJedit\\quill-develop\\\\test",
+			"E:\\HJedit\\quill-develop\\\\modules",
+			"E:\\HJedit\\quill-develop\\\\formats",
+			"E:\\HJedit\\quill-develop\\\\docs",
+			"E:\\HJedit\\quill-develop\\\\core",
+			"E:\\HJedit\\quill-develop\\\\blots",
+			"E:\\HJedit\\quill-develop\\\\assets",
+			"E:\\HJedit\\quill-develop\\\\blots",
+			"E:\\HJedit\\quill-develop\\\\core",
+			"E:\\HJedit\\quill-develop\\\\themes",
+			"E:\\HJedit\\quill-develop\\\\ui",
+			"E:\\HJedit\\quill-develop\\",
+			"E:\\HJedit\\quill-develop",
+			"C:\\Users\\Administrator\\Desktop\\大三上\\system-level programming\\slp14\\WRK-v1.2",
+			"C:\\Users\\Administrator\\Desktop\\大三上\\computer network\\期末PPT\\Saltyguy",
+			"C:\\Users\\Administrator\\Desktop\\大三上\\computer network\\期末PPT\\Saltyguy\\Saltyguy",
+			"E:\\jianguoyun\\lwChart\\Chart.js-2.4.0\\src",
+			"E:\\jianguoyun\\lwChart\\Chart.js-2.4.0",
+			"E:\\jianguoyun\\lwChart\\chartjs-plugin-zoom-0.4.3\\src",
+			"E:\\jianguoyun\\lwChart\\Chart.js-2.4.0\\src",
+			"E:\\jianguoyun\\lwChart",
+			"E:\\Saltyguy\\Workerman"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"boss",
+			"localStorage",
+			"playerSave",
+			"loadPlayerScreen",
+			"runGame",
+			"Explore",
+			"explore",
+			"Previous Floor",
+			"battleChance",
+			"attack",
+			"playerDeath",
+			"514",
+			"setDexterityExperience",
+			"gainExperience",
+			"getIssuesInfo",
+			"createMonster",
+			"loginNew",
+			"login",
+			"updateTime",
+			"main",
+			"saveAll",
+			"savedTicks",
+			"saveTicks",
+			"save",
+			"hardReset",
+			"gold",
+			"gameSpeed",
+			"changeFloor",
+			"王",
+			"梁王",
+			"5013",
+			"26100",
+			"updateTemporaryBuffs",
+			"magic",
+			"spells",
+			"Spells",
+			"gameSpeed",
+			"Idle",
+			"monsterList",
+			"number",
+			"battle",
+			"monsterCrystalDrop",
+			"gainE",
+			"updateTime",
+			"toggleBuff",
+			"updateToggleableBuffs",
+			"excelia",
+			"Excelia",
+			"excelia",
+			"Excelia",
+			"er",
+			"Excelia",
+			"loadIdleHealthSlider",
+			"idleMpRest",
+			"idleRest",
+			"trackEvent",
+			"ga",
+			"excelia",
+			"arcania",
+			"ChangeLog",
+			"assets",
+			"postsdefault",
+			"login",
+			"navbar-header",
+			"user",
+			"qiniu",
+			"uploadInit",
+			"uploadInit'",
+			"uploadInit",
+			"token",
+			"qiniu",
+			"image",
+			"attach",
+			"expandConfig",
+			"modify",
+			"editor",
+			"get",
+			"getDelta",
+			"Delta",
+			"scroll",
+			"POP",
+			"increasePopulation",
+			"_POP_DELAY",
+			"setDisabled",
+			"addButton",
+			"update",
+			"Doc",
+			"jsodc",
+			"Delta",
+			"controls",
+			"attach",
+			"addSelect",
+			"sortFunDownward",
+			"addControls",
+			"getRangeAt",
+			"//",
+			"debug",
+			"clipboard",
+			"pasteHTML",
+			"traverse",
+			"Clipboard",
+			"extend",
+			"clipboard",
+			"Picker",
+			"lineLength",
+			"Picker",
+			"AlignStyle",
+			"AlignAttribute",
+			"clipboard",
+			"STYLE_ATTRIBUTORS",
+			"lengthRemaining",
+			"CodeBlock",
+			"ql-code-block",
+			"code",
+			"imports",
+			"import",
+			"find",
+			"extend",
+			"modules",
+			"QUILL_VERSION",
+			"disable",
+			"setContents",
+			"eventemitter3",
+			"addContainer",
+			"expandConfig",
+			"modules",
+			"user",
+			"HJloading"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "culsim.sublime-project",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 158,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								102,
+								102
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 30.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 142.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "culsim.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 263.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
