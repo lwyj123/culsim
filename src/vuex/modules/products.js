@@ -1,4 +1,5 @@
 // store/modules/products.js
+/*
 import { RECEIVE_PRODUCTS, ADD_TO_CART } from '../mutation-types'
 
 // 该模块的初始状态
@@ -21,3 +22,4 @@ export default {
   state,
   mutations
 }
+*/
