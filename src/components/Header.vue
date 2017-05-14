@@ -4,7 +4,7 @@
       <router-link :to="{ path: '/village' }" replace><el-menu-item index="1">村庄</el-menu-item></router-link>
       <el-submenu index="2">
         <template slot="title">Workspace</template>
-        <el-menu-item index="2-1">item one</el-menu-item>
+        <el-menu-item index="2-1" @click="reset">重置</el-menu-item>
         <el-menu-item index="2-2">item two</el-menu-item>
         <el-menu-item index="2-3">item three</el-menu-item>
       </el-submenu>
@@ -26,6 +26,11 @@
     methods: {
       handleSelect(key, keyPath) {
         console.log(key, keyPath);
+      },
+      reset() {
+        clearInterval(this.$store.state.interval)
+        localStorage.removeItem('storedData')
+        this.$router.go(0)
       }
     }
   }

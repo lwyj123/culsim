@@ -11,11 +11,13 @@
 export default {
   name: 'app',
   mounted() {
-    setInterval(() => {
+    let interval = setInterval(() => {
       var sid = this.stationid
-      this.$store.commit('PRODUCE_FOOD', this.$store.state.farmers);
-    }, 100)    
-  }
+      this.$store.commit('PRODUCE_FOOD', this.$store.state.farmers)
+      localStorage.setItem("storedData", JSON.stringify(this.$store.state))
+    }, 100)
+    this.$store.commit('SET_INTERVAL', interval)
+  },
 }
 </script>
 
