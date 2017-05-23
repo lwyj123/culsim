@@ -2,6 +2,7 @@ import Vue from 'vue'
 import Router from 'vue-router'
 import Hello from '@/views/Hello'
 import Header from '@/components/Header'
+import Statistics from '@/components/Statistics'
 import Village from '@/views/Village'
 import Agriculture from '@/views/Agriculture'
 import Economics from '@/views/Economics'
@@ -16,6 +17,7 @@ export default new Router({
       components: {
         default: Hello,
         header: Header,
+        statistics: Statistics,
       }
     }, {
       path: '/village',
